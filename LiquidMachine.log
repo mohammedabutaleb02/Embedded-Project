@@ -1,0 +1,9 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\Abu Taleb\Desktop\Emmbeded Project Liquid Machine\LiquidMachine.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Abu Taleb\Desktop\Emmbeded Project Liquid Machine\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "LiquidMachine.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	LiquidMachine.c
+diagnostics: 434	123	Compiled Successfully	LiquidMachine.c
+hint: 79	1164	Variable 'dist' has been eliminated by optimizer	LiquidMachine.c
+hint: 100	1164	Variable 'dist' has been eliminated by optimizer	LiquidMachine.c
+diagnostics: 0	127	All files Compiled in 672 ms	 
+error: 0	434	Demo Limit	Demo Limit
+error: 0	102	Finished (with errors): 20 Jan 2024, 22:25:41	LiquidMachine.mcppi
